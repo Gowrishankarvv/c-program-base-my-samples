@@ -11,5 +11,5 @@ int main() {
          return 0;
      
          }         
-/* HELLO WORLD PROGRAM */
+/*swap 2 numbers PROGRAM */
  /* code by gowrishankarvv */
