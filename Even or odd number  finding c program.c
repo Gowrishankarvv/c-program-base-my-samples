@@ -11,6 +11,6 @@ int main() {
   return 0;
 }
 
- /* HELLO WORLD PROGRAM */
+ /* even or od PROGRAM */
  /* code by gowrishankarvv */
   
