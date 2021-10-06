@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
   double first, second, temp;
+  printf("https://github.com/Gowrishankarvv");             
   printf("Enter 2 numbers: ");
   scanf("%lf %lf" , &first, &second);
   temp = first;
@@ -10,3 +11,5 @@ int main() {
          return 0;
      
          }         
+/* HELLO WORLD PROGRAM */
+ /* code by gowrishankarvv */
